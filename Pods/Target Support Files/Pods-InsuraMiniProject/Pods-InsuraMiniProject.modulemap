@@ -1,0 +1,6 @@
+framework module Pods_InsuraMiniProject {
+  umbrella header "Pods-InsuraMiniProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
